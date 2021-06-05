@@ -3,7 +3,7 @@
 <hr>
 
 ## Description
-
+A full stack React store with a firebase database, ecommerce ordering with tax calculation & order emailing with NodeJS
 
 
 <hr>
@@ -11,13 +11,13 @@
  <!-- ![Main View](https://github.com/miadugas/svelte_ecomm/blob/main/black_mirror.png) -->
 
 ## Technology Used
-
+React, Firebase, Google Auth, NodeJS
 
 
 <hr>
 
 ### Additional Styling & Non-Technical Frameworks
-
+Google Fonts, Styled Components
 
 
 <hr>
